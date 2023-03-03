@@ -1,0 +1,14 @@
+{
+  "name": "date-funs",
+  "version": "1.0.0",
+  "description": "A date functions library",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node build/build-script.js"
+  },
+  "keywords": [
+    "Date"
+  ],
+  "author": "Aayush",
+  "license": "ISC"
+}
